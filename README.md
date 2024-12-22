@@ -1,17 +1,41 @@
-- 👋 Hi, I’m @lorencarvalho360. 
-- 👀 I’m interested in learn programming and everything I can about artificial intelligence.
-- Je suis intéressé à apprendre la programmation et tout ce que je peux sur l'intelligence artificielle
-- 🌱 I’m currently learning How to create websites. apprendre de manière rentable à créer des sites Web.
-- 💞️ I’m looking to collaborate on Everything in health, I'm a doctor and I worked in large hospitals in the southern region of Brazil
-- and I know hospital processes well. Therefore apps, websites and applications focused on health/medicine
-- Je cherche à collaborer sur Tout en santé, je suis médecin et j'ai travaillé dans de grands hôpitaux de la région sud du Brésil
-- et je connais bien les processus hospitaliers. C'est pourquoi des applications, des sites Web et des applications axés sur la santé/médecine
-- 📫 How to reach me lorencarvalho.ali@gmail.com
-- 😄 Pronouns: Loren 
-- ⚡ Fun fact: I love arts, reading, learning to play chess and discovering what it's like to live in France.
-- Anecdote amusante : j'aime les arts, la lecture, apprendre à jouer aux échecs et découvrir à quoi ressemble la vie en France
+👋 Hi, I’m @lorencarvalho360
+👀 I’m passionate about programming and diving deep into Artificial Intelligence.
+🌱 Currently learning how to create websites and improve my Python skills.
+💡 I aim to build impactful projects, especially in healthcare, combining my medical background with technology.
 
-<!---
-lorencarvalho360/lorencarvalho360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Background:
+
+I’m a doctor with experience in large hospitals in southern Brazil, providing me with a deep understanding of hospital processes and healthcare systems.
+I’m actively looking to collaborate on projects in health tech, including apps, websites, and applications focused on healthcare and medicine.
+
+Books Written:
+
+The Convergence of Human Memory, Artificial Intelligence (English Edition) – Available on Kindle
+
+Brain Rot: O Desgaste Cerebral no Século XXI – Available on Kindle
+
+Inesquecível: O Segredo da Memória Emocional – Available on Kindle
+
+¿Por qué el cerebro cambia? (Spanish Edition) – Available on Kindle
+
+O Ponto de Convergência: Memória, Inteligência Artificial e Consciência – Available on Kindle
+
+O Poder do Ciclo – Available on Kindle
+
+El Poder del Ciclo (Spanish Edition) – Available on Kindle
+
+The Power of the Cycle (English Edition) – Available on Kindle
+
+
+Skills & Interests:
+
+Python: Learning advanced concepts, libraries, and frameworks to create robust applications.
+Artificial Intelligence: Exploring how AI can revolutionize healthcare and other industries.
+Web Development: Understanding how to create functional and scalable websites and web applications.
+
+Collaborations & Opportunities:
+
+🌍 Remote work opportunities in technology, especially in healthcare.
+🔗 I’m open to contributing to open-source projects, collaborations, and learning experiences that focus on impactful technologies.
+
+
